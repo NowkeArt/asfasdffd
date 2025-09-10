@@ -42,9 +42,9 @@ $config = array(
 
 	'pay_system' => $settings['pay_system'],
 
-	'MerchantID' => $settings['MerchantID'],
+	'ShopID' => $settings['ShopID'],
 
-	'SecretWord' => $settings['SecretWord'],
+	'APIKey' => $settings['APIKey'],
 
 	'vktoken' => $settings['vktoken'],
 
